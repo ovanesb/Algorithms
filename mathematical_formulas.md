@@ -1,4 +1,4 @@
 # Analysis of Algorithms - Mathematical formulas - Basic formulas. 
 
 <pre> Constants </pre>
-f(n) = c
+<h3> f(n) = c </h3>
