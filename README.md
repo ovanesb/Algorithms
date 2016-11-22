@@ -1,1 +1,1 @@
-# it-help
+# Analysis of Algorithms - Mathematical formulas - Basic formulas. 
