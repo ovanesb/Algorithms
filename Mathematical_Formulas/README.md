@@ -39,9 +39,13 @@ https://guides.github.com/features/wikis/
     (in other words, "n squared"). Nested Loops
 
     for(i=0; i<=n; i++){
-        for(ii=0; ii<n; ii++){
+        for(ii=0; ii<=n; ii++){
             ...
         }
     }
-    
+</pre>
+
+<pre>
+    <b>The Cubic Function</b>  n<sup>3</sup>
+    &#402;(n) = n<sup>3</sup>
 </pre>
