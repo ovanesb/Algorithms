@@ -1,5 +1,4 @@
 # Basic formulas. 
-https://guides.github.com/features/wikis/
 
 <pre>
     <b>Constant</b> <i>c</i>
