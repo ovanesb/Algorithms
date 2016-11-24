@@ -28,6 +28,7 @@ https://guides.github.com/features/wikis/
 </pre>
 
 <pre>
-     &#402;(n) = n log  n | that is, the function that assigns to an input n the value of n times the logarithm 
+    <b>n log n</b> 
+    &#402;(n) = n log  n | that is, the function that assigns to an input n the value of n times the logarithm 
     base-two of n.
 </pre>
