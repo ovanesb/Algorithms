@@ -7,8 +7,9 @@
 </pre> 
 
 <pre>
-    &#402;(n) = log<sub>b</sub> n | for some constant b > 1
-    Indeed, since computers store integers in binary, the most common base for the logarithm function in computer science is 2. 
+    &#402;(n) = log<sub>b</sub>n | for some constant b > 1
+    Indeed, since computers store integers in binary, 
+    the most common base for the logarithm function in computer science is 2. 
     In fact, this base is so common that we will typically leave it off when it is
     log n = log<sub>2</sub>n
 </pre>
