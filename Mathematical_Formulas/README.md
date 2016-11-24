@@ -59,5 +59,6 @@ https://guides.github.com/features/wikis/
 
 <pre>
     for(i=10; i<=10; i++) = 1+2+3+4+5+6+7+8+9+10 = 55 
-    The formula is - 1+2+3+ ... + (n-2)+(n-1) = n
+    The formula is - 1+2+3+...+(n-2)+(n-1) = n
+    <hr />
 </pre>
