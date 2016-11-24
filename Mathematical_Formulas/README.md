@@ -34,7 +34,7 @@ https://guides.github.com/features/wikis/
 </pre>
 
 <pre>
-    <b>Quadratic Function</b>
+    <b>Quadratic Function</b> n<sup>2</sup>
     &#402;(n) = n<sup>2</sup> | That is, given an input value n, the function f assigns the product of n with itself
     (in other words, "n squared"). Nested Loops
 
@@ -47,5 +47,17 @@ https://guides.github.com/features/wikis/
 
 <pre>
     <b>The Cubic Function</b>  n<sup>3</sup>
-    &#402;(n) = n<sup>3</sup>
+    &#402;(n) = n<sup>3</sup> | Which assigns to an input value n the product of n with itself three times.
+    for(i=0; i<=n; i++){
+        for(ii=0; ii<=n; ii++){
+            for(iii=0; iii<=n; iii++){
+                ...
+            }
+        }
+    }
+</pre>
+
+<pre>
+    for(i=10; i<=10; i++) = 1+2+3+4+5+6+7+8+9+10 = 55 
+    The formula is - 1+2+3+ ... + (n-2)+(n-1) = n
 </pre>
