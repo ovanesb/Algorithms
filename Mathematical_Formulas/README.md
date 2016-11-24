@@ -1,8 +1,11 @@
 # Basic formulas. 
 
 
-<table>
-    <tr>
-        <td>test</td>
-    </tr>
-</table>
+<pre>
+    &#402;(n) = c | For some fixed constant c, such as c = 5, c = 27, or c = 210
+    a = b +1; | one line code
+</pre> 
+
+<pre>
+    test
+</pre>
