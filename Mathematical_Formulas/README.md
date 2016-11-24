@@ -8,7 +8,7 @@ https://guides.github.com/features/wikis/
 </pre> 
 
 <pre>
-    <b>Logarithmic</b>  <i>log<sub>(b)</sub></i>
+    <b>Logarithmic</b>  <i>log<sub>(n)</sub></i>
     &#402;(n) = log<sub>b</sub>n | for some constant b > 1
     Indeed, since computers store integers in binary, 
     the most common base for the logarithm function in computer science is 2. 
@@ -28,5 +28,6 @@ https://guides.github.com/features/wikis/
 </pre>
 
 <pre>
-    n log  n
+     &#402;(n) = n log  n | that is, the function that assigns to an input n the value of n times the logarithm 
+    base-two of n.
 </pre>
