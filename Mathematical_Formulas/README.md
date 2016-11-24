@@ -32,3 +32,16 @@ https://guides.github.com/features/wikis/
     &#402;(n) = n log  n | that is, the function that assigns to an input n the value of n times the logarithm 
     base-two of n.
 </pre>
+
+<pre>
+    <b>Quadratic Function</b>
+    &#402;(n) = n<sup>2</sup> | That is, given an input value n, the function f assigns the product of n with itself
+    (in other words, "n squared"). Nested Loops
+
+    for(i=0; i<=n; i++){
+        for(ii=0; ii<n; ii++){
+            ...
+        }
+    }
+    
+</pre>
