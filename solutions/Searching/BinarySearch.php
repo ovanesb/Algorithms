@@ -18,7 +18,10 @@ class BinarySearch {
         $key = 1;
         
         do{
-
+            /**
+             * Formula
+             * mid = low + (high - low) / 2
+             */
             $m = floor( ($l+$r)/2 );
 
             if($key < $this->_arr[$m]){
