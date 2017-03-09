@@ -12,7 +12,7 @@ class LinearSearch {
      *
      * @var array 
      */
-    private $input = [1=>10, 2=>14, 3=>16, 4=>37, 5=>39, 6=>45, 7=>52];
+    private $input = [10, 14, 16, 37, 39, 45, 52];
     
     /**
      * Pseudocode
@@ -28,7 +28,7 @@ class LinearSearch {
      */
     public function search($findMe){
         
-        $size = count( $this->input );
+        $size = count( $this->input ) - 1;
         
         for($i=1; $i<$size; $i++){
             if($findMe == $this->input[$i]){
@@ -36,7 +36,7 @@ class LinearSearch {
             }
         }
         
-        return 'The itme is not found';
+        return 'The item is not found';
     }
     
 }
